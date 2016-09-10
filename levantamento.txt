@@ -1,62 +1,40 @@
-Levantamento funcionalidade sites
-
-icasei.com.br
-
-construtur de side de casamentos
-lista de casamento
-portal de dicas de casamento
-portal de fornecedores de serviços
-sobre o site
-    sobre
-    na midia
-    fale conosco
-    depoimento
-
-https://www.icasei.com.br/planos
-**Pede para conectar com o face para ver o video explicativo... com isso vc pega os dados do cliente
-
-Lista de casamento presentes
-    lista de confirmacao
-    "Seus convidados sempre bem atendidos! Confirmação de presença por telefone em diversas cidades do Brasil e canais online."
-Suporte Telefônico
-    "O único com suporte por telefone e profissionais experientes para atender às suas necessidades. Dúvidas? Teremos o maior prazer em atendê-los."
-Proteção por senha
+Levantamento funcionalidade Sonho de casados
+V 1.0
+- Construtor de side de casamentos
+- Lista de convidados / RSVP em seu site / Confirmação de presença
+- Lista de presentes
+- Proteção por senha
     "Quer privacidade no seu site de casamento? Garanta que apenas seus convidados acessem as informações e fotos do seu casamento."
-Save the date
+- Save the date
     "Personalize e envie um lembrete por e-mail aos seus convidados de maneira simples com a melhor ferramenta do mercado de casamento."
-Albúm de Fotos
+- Albúm de Fotos
     "Monte seus albúns de fotos, adicione quantas fotos desejar com a melhor resolução do mercado."
-contas de lua de mel - doar dinheiro para viagem de lua de mel
+- Link para seus vídeos no Youtube
+- Lista de Casamento Virtual / Cotas de lua de mel - doar dinheiro para viagem de lua de mel
+- Mapas
+    "Rotas de como chegar no evento"
+- Layouts Exclusivos
+- Suporte Offline (via E-mail ou outros)
+- Slideshow da página inicial customizável
+- Contador de acessos
+- Ferramenta para agradecimento de presentes
 
+V 1.1
+Outros eventos (Chá-bar, etc)
+portal de fornecedores de serviços
 Aplicativo Gratuito
     "Aplicativo gratuito para seu tablet ou smartphone. Leve seu site para onde você for!"
 Homenagem aos Padrinhos
     "Homenagem aos padrinhos: crie uma página com histórias, fotos e muito mais! "
-Mapas
-    "Crie rotas e oriente os convidados a escolher o melhor caminho para a sua festa."
-Layouts Exclusivos
-    "São 87 combinações de layouts customizáveis para você inovar!"
-
-Editor de Fotos
-RSVP em seu site / Confirmação de presença
-Suporte Offline (via E-mail)
-Outros eventos (Chá-bar, etc)
-Ordenar fotos
-Link para seus vídeos no Youtube
-Contagem regressiva
-Lista de Casamento Virtual / Cotas de lua de mel
-Atendimento iCasei
-Presentes em dinheiro
 Blog do casal com comentários
-Suporte Online (via Telefone)
 Livro de visitas (Mural de Recados)
-Slideshow da página inicial customizável
-Padrinhos, Daminhas e Pagens
 Envie e-mails para seus convidados
-Habilitar / Desabilitar páginas
-Lista de Casamento Virtual / Presentes Virtuais
-Página de história dos noivos
+Contagem regressiva
 Enquetes
 Lista de casamento em lojas físicas
-Contador de acessos
-Ferramenta para agradecimento de presentes
+portal de dicas de casamento e outros
+
+**Pede para conectar com o face para ver o video explicativo... com isso vc pega os dados do cliente
+
+
+
