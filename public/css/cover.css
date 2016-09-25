@@ -154,6 +154,54 @@ body {
   }
 }
 
+/*
+* SC Customized
+*/
+
+.sc-input {
+    background-color: transparent;
+    border-radius: 0;
+    border: 1px solid #aaaaaa;
+    text-align:center;
+    color: #ffffff;
+}
+
+.sc-btn {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px 20px;
+    text-shadow: none;
+    background-color: #D9125D;
+    border: 0px solid #fff;
+    border-radius: 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+}
+
+
+.sc-btn:hover {
+    background-color: hotpink;
+    text-decoration: none;
+    color: white;
+}
+
+.sc-div {
+    padding: 20px;
+
+}
+
+.md-datepicker-input {
+    background-color: transparent;
+    border-radius: 0;
+    border: 1px solid #aaaaaa;
+    text-align:center;
+    color: #ffffff;
+    height: 46px;
+    padding: 10px 50px;
+    font-size: 18px;
+    line-height: 1.3333333;
+}
+
 @media (min-width: 992px) {
   .masthead,
   .mastfoot,
