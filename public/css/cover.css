@@ -33,6 +33,10 @@ body {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  background-image:url('../img/fundo_site.jpg');
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -65,6 +69,7 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-left: -300px;
 }
 
 .masthead-nav > li {
@@ -76,8 +81,8 @@ body {
 .masthead-nav > li > a {
   padding-right: 0;
   padding-left: 0;
-  font-size: 16px;
-  font-weight: bold;
+  font-size: 14px;
+  /*font-weight: bold;*/
   color: #fff; /* IE8 proofing */
   color: rgba(255,255,255,.75);
   border-bottom: 2px solid transparent;
@@ -190,6 +195,12 @@ body {
 
 }
 
+.sc-btn-nav
+{
+    border: solid 1px #aaaaaa;
+    padding: 0 10px;
+}
+
 .md-datepicker-input {
     background-color: transparent;
     border-radius: 0;
@@ -202,10 +213,25 @@ body {
     line-height: 1.3333333;
 }
 
+
+.md-button {
+    background-color: #545454;
+    opacity: .50;
+}
+.md-button:not([disabled]).md-icon-button:hover {
+    background-color: #545454;
+    opacity: 0.80;
+}
+
+.md-button:not([disabled]).md-icon-button:focus {
+    background-color: #545454;
+    opacity: 0.50;
+}
+
 @media (min-width: 992px) {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 700px;
+    width: 900px;
   }
 }

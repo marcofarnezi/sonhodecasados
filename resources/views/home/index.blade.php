@@ -42,12 +42,14 @@
 
             <div class="masthead clearfix">
                 <div class="inner">
-                    <h3 class="masthead-brand">Sonho de casados</h3>
+                    <h3 class="masthead-brand"><img src="img/logotipo.png" title="Sonho de Casados"></h3>
                     <nav>
                         <ul class="nav masthead-nav">
-                            <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#">Features</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li class="active "><a href="#">LISTA DE PRESENTES</a></li>
+                            <li><a href="#">INSPIRAÇÕES</a></li>
+                            <li><a href="#">PLANOS E RECURSOS</a></li>
+                            <li><a href="#">SONHOS</a></li>
+                            <li class="sc-btn-nav"><a href="#">Entre ou cadastre-se</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -57,6 +59,7 @@
                 <h1 class="cover-heading">SITES DE CASAMENTO</h1>
                 <p class="lead">Seu site de casamento vai surpreender seus convidados. Crie um site lindo e personalizado.</p>
                 <form>
+
                     <div class="form-group">
                     <input type="text" class="sc-input input-lg" id="desc_nome_noiva" name="desc_nome_noiva" ng-model="dados.nome_noiva" placeholder="Nome da Noiva">
                     </div>
