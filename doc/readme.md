@@ -7,18 +7,20 @@
 - O(s) layout(s) que mais chamou(ram) atenção
 - O mais fácil de cadastrar (Que tenha menos passo* e mais intuitivo) 
 
-* Menos passos : Menor quantidade de campos para preencher e menor quantidade de clicks
+*Menos passos : Menor quantidade de campos para preencher e menor quantidade de clicks
 
 - O(s) que aprece(m) ser mais moderno(s)
 
 ## Levantar a lista de funcionalidades que os sites disponibilizam
-- Fazer a lista de coisas informadas no site que oferece(Textos no site que informam os serviços ofertados)
+- Fazer a lista de funcionalidades informadas no site(Textos do site que informam os serviços ofertados)
 
 - Analisar cada componente **
 
 ** Print da tela com as principais características (boas e ruins) com a descrição de qual era a expectativa da ferramente e a realidade ao testar.
+
 Ex: Item - Lista de casamento 
-<img da tela>  
+
+	> img da tela
 
 Descrição no site : [bla bla bla escrito no site descrevendo a funcionalidade]
 
